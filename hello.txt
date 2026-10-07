@@ -1,2 +1,2 @@
-Hi I am learning git
-This line was changed on main
+Hi I am learning Git
+This line was changed on both main and feature.
