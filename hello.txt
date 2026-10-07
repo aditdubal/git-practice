@@ -1,2 +1,1 @@
-Hi I am learning Git
-This line was changed on both main and feature.
+I am learning git and github
